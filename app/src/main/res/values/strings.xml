@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vamsi Android</string>
+    <string name="title_activity_main">Vamsi Camera</string>
+    <string name="title_activity_result">Result</string>
+</resources>
